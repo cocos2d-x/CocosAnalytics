@@ -1,0 +1,7 @@
+{ 
+	"title": "Cocos Analytics Manual",
+	"description": "",
+	"author": "Cocos",
+	"language": "zh-CN",
+	"plugins":["fontsettings","-sharing","-livereload","-search"] 
+}

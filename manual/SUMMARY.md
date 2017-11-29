@@ -1,0 +1,20 @@
+# Cocos Analytics
+
+* [概述](README.md)
+	* [注册账号](register.md)
+	* [创建游戏](create_game.md)
+	* [开通服务](activation.md)
+	* [获取SDK](get_sdk.md)
+* [接入文档](integration.md)
+	* [Android](manual_android.md)
+	* [iOS](manual_ios.md)
+	* [HTML5](manual_h5.md)
+	* [集成调试](integrating_debug.md)
+* 系统操作指南
+	* [数据中心](analytics_dashboard.md)
+	* [实时概况](analytics_realtime.md)
+	* [玩家分析](analytics_player.md)
+	* [付费分析](analytics_payment.md)
+	* [在线分析](analytics_online.md)
+	* [游戏分析](analytics_ingame.md)
+	* [自定义事件](analytics_custom_events.md)
